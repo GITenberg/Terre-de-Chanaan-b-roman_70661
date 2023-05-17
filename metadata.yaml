@@ -1,0 +1,33 @@
+_repo: Terre-de-Chanaan-b-roman_70661
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chadourne, Louis
+    birthdate: 1890
+    deathdate: 1925
+    gutenberg_agent_id: '54861'
+    url: http://www.gutenberg.org/2009/agents/54861
+    wikipedia: https://fr.wikipedia.org/wiki/Louis_Chadourne
+description: ''
+gutenberg_issued: '2023-04-28'
+identifiers:
+  gutenberg: '70661'
+  lccn: '22004852'
+language: fr
+pgterms:marc904: https://archive.org/details/terredechanaanro00chad
+pgterms:marc905: 20220210043041chadourne
+pgterms:marc906: '1921'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aFrance :$bAlbin Michel, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Terre de Chanaan : $b roman'
+url: http://www.gutenberg.org/ebooks/70661
